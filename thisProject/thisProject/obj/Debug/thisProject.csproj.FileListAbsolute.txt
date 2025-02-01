@@ -1,0 +1,13 @@
+C:\Users\ninaj\source\repos\thisProject\thisProject\bin\Debug\thisProject.exe.config
+C:\Users\ninaj\source\repos\thisProject\thisProject\bin\Debug\thisProject.exe
+C:\Users\ninaj\source\repos\thisProject\thisProject\bin\Debug\thisProject.pdb
+C:\Users\ninaj\source\repos\thisProject\thisProject\obj\Debug\thisProject.csproj.AssemblyReference.cache
+C:\Users\ninaj\source\repos\thisProject\thisProject\obj\Debug\thisProject.gamePicker.resources
+C:\Users\ninaj\source\repos\thisProject\thisProject\obj\Debug\thisProject.rpsGame.resources
+C:\Users\ninaj\source\repos\thisProject\thisProject\obj\Debug\thisProject.guessGame.resources
+C:\Users\ninaj\source\repos\thisProject\thisProject\obj\Debug\thisProject.loginForm.resources
+C:\Users\ninaj\source\repos\thisProject\thisProject\obj\Debug\thisProject.Properties.Resources.resources
+C:\Users\ninaj\source\repos\thisProject\thisProject\obj\Debug\thisProject.csproj.GenerateResource.cache
+C:\Users\ninaj\source\repos\thisProject\thisProject\obj\Debug\thisProject.csproj.CoreCompileInputs.cache
+C:\Users\ninaj\source\repos\thisProject\thisProject\obj\Debug\thisProject.exe
+C:\Users\ninaj\source\repos\thisProject\thisProject\obj\Debug\thisProject.pdb
