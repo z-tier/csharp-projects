@@ -1,5 +1,4 @@
-1 - download "thisProject" folder
+random c# projects in vscode
 
-2 - move installed folder to "This PC > (device name) > Users > (user name) > source > repos"
-
-at least that's what's in my pc, idk about others
+contents:
+- game picker with rock paper scissors and guess the number, more coming soon maybe idk
